@@ -67,7 +67,7 @@ a.mb-scrollButtons {
 	display: block;
 	width: 45px;
 	height: 58px;
-	background: transparent url(../images/arrows.png) no-repeat;
+	background: transparent url(https://github.com/Varzeon/carousal/raw/master/arrows.png) no-repeat;
 	position: absolute;
 	top: 50%;
 	margin-top: -29px; /* if you change the arrow images, you may have to adjust this (1/2 height of arrow image) */
